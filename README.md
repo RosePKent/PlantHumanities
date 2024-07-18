@@ -1,10 +1,10 @@
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 # Juncture Repository Template
 
 <param ve-iframe
-src="https://archive.org/embed/sunflowerpetals1940sunf/page/n7/mode/1up"
-fit="contain">
+  src="https://archive.org/embed/sunflowerpetals1940sunf/page/n7/mode/1up"
+  fit="contain">
 
 To create a new repository using this template go to [https://github.com/juncture-digital/template/generate](https://github.com/juncture-digital/template/generate)
 
